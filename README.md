@@ -1,6 +1,6 @@
-# hosted-projects
+# Hosted Projects
 
-### This repository links to a few hosted webpages I've created. They all use API keys so only the final product is shown.
+### This repository links to a few hosted webpages I've created. They all make use of APIs so only the final product is shown.
 
 https://katherine-weather.netlify.app/
 This page uses a weather api to display the local 5-day forecast.
